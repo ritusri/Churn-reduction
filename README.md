@@ -1,5 +1,5 @@
 # Churn-reduction
-The objective of this Case is to predict customer behavior. From the public dataset that has customer usage pattern and if the customer has moved or not.
+
 
 Problem statement 
 
